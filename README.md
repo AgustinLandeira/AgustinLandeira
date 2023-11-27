@@ -13,4 +13,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=agustinlandeira&show_icons=true&locale=en&layout=compact" alt="agustinlandeira" /></p>
 
 <h1 align="center">Used development applications:</h1>
-icons/visualstudio/visualstudio-plain.svg
+![image](https://github.com/AgustinLandeira/AgustinLandeira/assets/122326040/471fff73-6a30-4f5c-b4fe-8d4785a7ff5f)
+
