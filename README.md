@@ -13,5 +13,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=agustinlandeira&show_icons=true&locale=en&layout=compact" alt="agustinlandeira" /></p>
 
 <h1 align="center">Used development applications:</h1>
-![image](https://github.com/AgustinLandeira/AgustinLandeira/assets/122326040/471fff73-6a30-4f5c-b4fe-8d4785a7ff5f)
+![Captura de pantalla 2023-11-27 145642](https://github.com/AgustinLandeira/AgustinLandeira/assets/122326040/122ee546-c79a-49cc-a7df-1eaac19f6365)
+
 
