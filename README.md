@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently **studying at UTN (Technological National University)**
 
-- 🌱 I’m currently learning **the lenguages called HTML,CSS AND TYPESCRIPT**
+- 🌱 I’m currently learning **the framework called Angular**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
