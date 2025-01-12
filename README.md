@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Agustin Landeira</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Argentina</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=agustinlandeira" alt="agustinlandeira" /></a> </p>
 
 - 🔭 I’m currently **studying at UTN (Technological National University)**
 
-- 🌱 I’m currently learning **the framework called Angular**
+- 🌱 I’m currently learning **React**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
